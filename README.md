@@ -62,7 +62,7 @@ Además fundé n!, una comunidad de estudiantes de mi universidad donde profundi
 
 <div align="center">
 
-<img height="190" src="https://streak-stats.demolab.com?user=FitoCoding&theme=github-dark-blue&hide_border=true" />
+<img height="190" src="https://streak-stats.demolab.com?user=FitoCoding&theme=github-dark-blue&hide_border=true&v=2" />
 
 </div>
 
