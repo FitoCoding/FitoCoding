@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Pedro
+# Buenas, soy Pedro
 
 ### Estudiante de Ingeniería Civil en Informática y Telecomunicaciones
 
