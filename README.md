@@ -12,7 +12,7 @@
 
 Estoy en mi último y 5.º año de Ingeniería Civil en Informática y Telecomunicaciones. Me gusta la inteligencia artificial, el hardware y usar las matemáticas para llegar a soluciones que se puedan llevar a la práctica. También soy un amante de la arquitectura y el armado de PCs, y disfruto mucho armándolos, así como diseñando mods a pedido.
 
-Soy ayudante de varias asignaturas de la carrera, entre ellas Programación, Programación Avanzada, Estructuras de Datos y Algoritmos, Sistemas Operativos y Sistemas Distribuidos.
+La ciberseguridad y la infraestructura TI también son áreas que me interesan mucho, y siempre trato de llevar esos conocimientos a mis proyectos. Soy ayudante de varias asignaturas de la carrera, entre ellas Programación, Programación Avanzada, Estructuras de Datos y Algoritmos, Sistemas Operativos y Sistemas Distribuidos.
 
 Además fundé n!, una comunidad de estudiantes de mi universidad donde profundizamos en matemáticas avanzadas, algoritmos y estructuras de datos, con aprendizaje entre pares y exigencia técnica (red social abajo).
 
@@ -51,6 +51,11 @@ Además fundé n!, una comunidad de estudiantes de mi universidad donde profundi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Redes y seguridad
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### Herramientas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
