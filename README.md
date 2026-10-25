@@ -10,7 +10,7 @@
 
 </div>
 
-Estoy en mi último y 5.º año de Ingeniería Civil en Informática y Telecomunicaciones. Me gusta la inteligencia artificial, el hardware y usar las matemáticas para llegar a soluciones que se puedan llevar a la práctica. También soy un amante de la arquitectura y el armado de PCs, y disfruto mucho armándolos, así como diseñando mods a pedido.
+Estoy terminando mi 4.º año de Ingeniería Civil en Informática y Telecomunicaciones. Me gusta la inteligencia artificial, el hardware y usar las matemáticas para llegar a soluciones que se puedan llevar a la práctica. También soy un amante de la arquitectura y el armado de PCs. Disfruto mucho armándolos, así como diseñando mods a pedido.
 
 La ciberseguridad y la infraestructura TI también son áreas que me interesan mucho, y siempre trato de llevar esos conocimientos a mis proyectos. Soy ayudante de varias asignaturas de la carrera, entre ellas Programación, Programación Avanzada, Estructuras de Datos y Algoritmos, Sistemas Operativos y Sistemas Distribuidos.
 
