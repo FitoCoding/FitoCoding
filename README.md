@@ -1,28 +1,30 @@
+[Español](README.es.md)
+
 <div align="center">
 
-# Buenas, soy Pedro
+# Hi, I'm Pedro
 
-### Estudiante de Ingeniería Civil en Informática y Telecomunicaciones
+### Civil Engineering in Computer Science and Telecommunications student
 
-<img src="typing.svg" width="700" alt="IA | Hardware | Matemática aplicada. Ayudante de programación, algoritmos y sistemas. Fundador de la comunidad n!" />
+<img src="typing.en.svg" width="700" alt="AI | Hardware | Applied mathematics. Teaching assistant in programming, algorithms and systems. Founder of the n! community" />
 
 ![Santiago, Chile](https://img.shields.io/badge/Santiago,_Chile-30363D?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
-Estoy terminando mi 4.º año de Ingeniería Civil en Informática y Telecomunicaciones. Me gusta la inteligencia artificial, el hardware y usar las matemáticas para llegar a soluciones que se puedan llevar a la práctica. También soy un amante de la arquitectura y el armado de PCs. Disfruto mucho armándolos, así como diseñando mods a pedido.
+I'm finishing my 4th year of Civil Engineering in Computer Science and Telecommunications. I like artificial intelligence, hardware and using mathematics to reach solutions that can be put into practice. I'm also a lover of architecture and PC building. I really enjoy building them, as well as designing mods to order.
 
-La ciberseguridad y la infraestructura TI también son áreas que me interesan mucho, y siempre trato de llevar esos conocimientos a mis proyectos. Soy ayudante de varias asignaturas de la carrera, entre ellas Programación, Programación Avanzada, Estructuras de Datos y Algoritmos, Sistemas Operativos y Sistemas Distribuidos.
+Cybersecurity and IT infrastructure are also areas I'm very interested in, and I always try to bring that knowledge into my projects. I'm a teaching assistant for several courses in my degree, including Programming, Advanced Programming, Data Structures and Algorithms, Operating Systems and Distributed Systems.
 
-Además fundé n!, una comunidad de estudiantes de mi universidad donde profundizamos en matemáticas avanzadas, algoritmos y estructuras de datos, con aprendizaje entre pares y exigencia técnica (red social abajo).
+I also founded n!, a community of students from my university where we dive deep into advanced mathematics, algorithms and data structures, with peer learning and technical rigor (social network below).
 
 [![Instagram](https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/nfact.udp/)
 
 ---
 
-## Tecnologías
+## Technologies
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,7 +32,7 @@ Además fundé n!, una comunidad de estudiantes de mi universidad donde profundi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### IA y ciencia de datos
+### AI and data science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -52,12 +54,12 @@ Además fundé n!, una comunidad de estudiantes de mi universidad donde profundi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Redes y seguridad
+### Networks and security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### Herramientas
+### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,7 +75,7 @@ Además fundé n!, una comunidad de estudiantes de mi universidad donde profundi
 
 ---
 
-## Contacto
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-morales-nadal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.morales.nadal@gmail.com)
